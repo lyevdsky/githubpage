@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <img alt="Vue logo" src="../assets/logo.png">
-	https://github.com/lyevdsky/gitpage
+	https://github.com/lyevdsky/gitpag
     <HelloWorld msg="Welcome to Your Vue2.js App3"/>
   </div>
 </template>
